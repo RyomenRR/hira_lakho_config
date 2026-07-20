@@ -1,0 +1,10 @@
+{
+  "show": true,
+  "id": "hello_users_test",
+  "title": "Welcome! 👋",
+  "message": "Hello users! This message is loaded directly from GitHub.",
+  "btnText": "Great!",
+  "btnUrl": "",
+  "dismissText": "Close",
+  "maxShowCount": 3
+}
