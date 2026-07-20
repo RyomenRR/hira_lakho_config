@@ -1,14 +1,35 @@
 {
   "show": true,
-  "id": "hello_users_styled_v1",
-  "title": "Special Announcement! 👋",
-  "message": "This is a custom warning styled directly from GitHub. Tap below to send feedback.",
-  "icon": "warning",
-  "primaryColor": "#E91E63",
-  "imageUrl": "https://picsum.photos/600/300",
-  "barrierDismissible": false,
-  "btnText": "Fill Google Form 📝",
-  "btnUrl": "https://docs.google.com/forms/d/your-google-form-link-here",
-  "dismissText": "Later",
+  "id": "giveaway_100_downloads_v1",
+  "icon": "gift",
+  "primaryColor": "#FFD700",
+  "imageUrl": "",
+  "barrierDismissible": true,
+  "title": {
+    "en": "Giveaway Alert! 🎁",
+    "gu": "ગિવેઅવે એલર્ટ! 🎁",
+    "hi": "गिवअवे अलर्ट! 🎁"
+  },
+  "message": {
+    "en": "A ₹100 giveaway will be announced when we reach 100 downloads! Share the app and help us get there faster.",
+    "gu": "જ્યારે આપણે ૧૦૦ ડાઉનલોડ પૂર્ણ કરીશું ત્યારે ₹૧૦૦ નું ગિવેઅવે જાહેર કરવામાં આવશે! ઝડપથી પહોંચવામાં અમારી મદદ કરવા માટે એપ શેર કરો.",
+    "hi": "जब हम 100 डाउनलोड तक पहुँचेंगे तो ₹100 के गिवअवे की घोषणा की जाएगी! वहाँ तेज़ी से पहुँचने में हमारी मदद करने के लिए ऐप शेयर करें।"
+  },
+  "btnText": {
+    "en": "Share App 📲",
+    "gu": "એપ શેર કરો 📲",
+    "hi": "ऐप शेयर करें 📲"
+  },
+  "btnUrl": "share",
+  "shareText": {
+    "en": "Hey! Check out this awesome Hira Lakho app: https://play.google.com/store/apps/details?id=com.romeotech.hiralakho",
+    "gu": "હેલો! આ અદ્ભુત હીરા લાખો એપ જુઓ: https://play.google.com/store/apps/details?id=com.romeotech.hiralakho",
+    "hi": "अरे! इस कमाल के हीरा लाखो ऐप को देखें: https://play.google.com/store/apps/details?id=com.romeotech.hiralakho"
+  },
+  "dismissText": {
+    "en": "Dismiss",
+    "gu": "બંધ કરો",
+    "hi": "बंद करें"
+  },
   "maxShowCount": 2
 }
