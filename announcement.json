@@ -1,10 +1,14 @@
 {
   "show": true,
-  "id": "hello_users_test",
-  "title": "Welcome! 👋",
-  "message": "Hello users! This message is loaded directly from GitHub.",
-  "btnText": "Great!",
-  "btnUrl": "",
-  "dismissText": "Close",
-  "maxShowCount": 3
+  "id": "hello_users_styled_v1",
+  "title": "Special Announcement! 👋",
+  "message": "This is a custom warning styled directly from GitHub. Tap below to send feedback.",
+  "icon": "warning",
+  "primaryColor": "#E91E63",
+  "imageUrl": "https://picsum.photos/600/300",
+  "barrierDismissible": false,
+  "btnText": "Fill Google Form 📝",
+  "btnUrl": "https://docs.google.com/forms/d/your-google-form-link-here",
+  "dismissText": "Later",
+  "maxShowCount": 2
 }
